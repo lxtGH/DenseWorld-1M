@@ -8,7 +8,7 @@
 
  [**Yueyi Sun**]()<sup>3</sup> · [**Shilin Xu**]()<sup>3</sup> · [**Lu Qi**](https://luqi.info/)<sup>1</sup> · [**Yi Lin**]()<sup>1</sup> ·[**Wenhao Huang**](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN)<sup>1</sup> · [**Jiashi Feng**](https://scholar.google.com/citations?user=Q8iay0gAAAAJ&hl=en)<sup>2</sup> · [**Guang Shi**]()<sup>1</sup>
 
-<sup>1</sup>Beytedance Seed&emsp;&emsp;&emsp;&emsp;<sup>2</sup>Wuhan University&emsp;&emsp;&emsp;&emsp;<sup>3</sup>Peking University&emsp;&emsp;&emsp;&emsp;
+<sup>1</sup>Bytedance Seed&emsp;&emsp;&emsp;&emsp;<sup>2</sup>Wuhan University&emsp;&emsp;&emsp;&emsp;<sup>3</sup>Peking University&emsp;&emsp;&emsp;&emsp;
 
 &dagger; project lead&emsp;* The first three authors equally contribute to the work.
 
@@ -40,7 +40,7 @@ To accelerate the labeling process and improve caption quality, we present two V
 
 We are cleaning the dataset and the open-source procedure is also still under review process.
 
-We will opensource the entire dataset before the end of July on Huggingface.
+We will opensource the entire Denseworld-1M dataset before the end of July on Huggingface.
 
 - [ ] Release training code for different model.
 - [ ] Release dataset
