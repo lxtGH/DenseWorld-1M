@@ -4,9 +4,9 @@
 [\[🏠 DenseWorld-1M\]]()  [\[📜 arXiv\]](https://arxiv.org/abs/2501.04001) [\[🤗 HuggingFace\]](https://huggingface.co/datasets/ByteDance/) [\[🧑‍💻 GitHub\]](https://github.com/lxtGH/DenseWorld-1M) 
 
 
-[**Xiangtai Li**](https://lxtgh.github.io/)<sup>1*</sup> · [**Tao Zhang**](https://zhang-tao-whu.github.io/)<sup>1*;</sup> · [**Yanwei Li**](https://yanwei-li.com/)<sup>1*</sup> · [**Zilong Huang**](http://speedinghzl.github.io/)<sup>1</sup> · [**Haobo Yuan**]()<sup>2</sup> · [**Yikang Zhou**]()<sup>2</sup> ·
+[**Xiangtai Li**](https://lxtgh.github.io/)<sup>1*</sup> · [**Tao Zhang**](https://zhang-tao-whu.github.io/)<sup>1*;</sup> · [**Yanwei Li**](https://yanwei-li.com/)<sup>1*</sup> · [**Zilong Huang**](http://speedinghzl.github.io/)<sup>1</sup> · [**Haobo Yuan**](https://yuanhaobo.me/)<sup>2</sup> · [**Yikang Zhou**](https://scholar.google.com/citations?user=dZikW2YAAAAJ&hl=en)<sup>2</sup> · [**Shihao Chen**]()<sup>2</sup> ·  [**Jiahao Meng**]()<sup>3</sup> ·
 
-[**Lu Qi**](https://luqi.info/)<sup>1</sup> · [**Jiashi Feng**](https://scholar.google.com/citations?user=Q8iay0gAAAAJ&hl=en)<sup>2</sup> · [**Guang Shi**]()<sup>1</sup>
+ [**Yueyi Sun**]()<sup>3</sup> · [**Shilin Xu**]()<sup>3</sup> · [**Lu Qi**](https://luqi.info/)<sup>1</sup> · [**Yi Lin**]()<sup>1</sup> ·[**Wenhao Huang**](https://scholar.google.com/citations?user=OdE3MsQAAAAJ&hl=zh-CN)<sup>1</sup> · [**Jiashi Feng**](https://scholar.google.com/citations?user=Q8iay0gAAAAJ&hl=en)<sup>2</sup> · [**Guang Shi**]()<sup>1</sup>
 
 <sup>1</sup>Beytedance Seed&emsp;&emsp;&emsp;&emsp;<sup>2</sup>Wuhan University&emsp;&emsp;&emsp;&emsp;<sup>3</sup>Peking University&emsp;&emsp;&emsp;&emsp;
 
@@ -38,8 +38,9 @@ To accelerate the labeling process and improve caption quality, we present two V
 
 ### To Do List
 
+We are cleaning the dataset and the open-source procedure is also still under review process.
 
-We are cleaning the dataset and decide to opensource the dataset before the end of July.
+We will opensource the dataset before the end of July.
 
 - [ ] Release training code for different model.
 - [ ] Release dataset
