@@ -40,7 +40,7 @@ To accelerate the labeling process and improve caption quality, we present two V
 
 We are cleaning the dataset and the open-source procedure is also still under review process.
 
-We will opensource the dataset before the end of July.
+We will opensource the entire dataset before the end of July on Huggingface.
 
 - [ ] Release training code for different model.
 - [ ] Release dataset
