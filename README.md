@@ -1,7 +1,7 @@
 # DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World
 
 
-[\[🏠 DenseWorld-1M\]]()  [\[📜 arXiv\]](https://arxiv.org/abs/2501.04001) [\[🤗 HuggingFace\]](https://huggingface.co/datasets/ByteDance/) [\[🧑‍💻 GitHub\]](https://github.com/lxtGH/DenseWorld-1M) 
+[\[🏠 DenseWorld-1M\]]()  [\[📜 arXiv\]](https://arxiv.org/abs/2506.24102) [\[🤗 HuggingFace\]](https://huggingface.co/datasets/ByteDance/) [\[🧑‍💻 GitHub\]](https://github.com/lxtGH/DenseWorld-1M) 
 
 
 [**Xiangtai Li**](https://lxtgh.github.io/)<sup>1*</sup> · [**Tao Zhang**](https://zhang-tao-whu.github.io/)<sup>1*;</sup> · [**Yanwei Li**](https://yanwei-li.com/)<sup>1*</sup> · [**Zilong Huang**](http://speedinghzl.github.io/)<sup>1</sup> · [**Haobo Yuan**](https://yuanhaobo.me/)<sup>2</sup> · [**Yikang Zhou**](https://scholar.google.com/citations?user=dZikW2YAAAAJ&hl=en)<sup>2</sup> · [**Shihao Chen**]()<sup>2</sup> ·  
@@ -39,7 +39,7 @@ To accelerate the labeling process and improve caption quality, we present two V
 
 We are cleaning the dataset and the open-source procedure is also still under review process.
 
-We will opensource the entire Denseworld-1M dataset before the end of July on Huggingface.
+We will opensource the entire DenseWorld-1M dataset before the end of July on Huggingface.
 
 - [ ] Release training code for different model.
 - [ ] Release dataset
@@ -47,6 +47,7 @@ We will opensource the entire Denseworld-1M dataset before the end of July on Hu
 
 
 ## References
+
 If you find this repository useful, please consider referring to the following paper:
 
 ```
