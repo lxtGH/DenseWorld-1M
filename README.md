@@ -32,6 +32,7 @@ To accelerate the labeling process and improve caption quality, we present two V
 
 ### News
 
+- [ ] Please stay tuned and will release dataset soon.
 - [x] The report is on arxiv.
 
 
